@@ -65,6 +65,20 @@ SnapCircle/
     └── uploads/
 ```
 
+
+---
+
+
+## **📱 UI Gallery**
+
+<div align="center">
+  <img src="./screenshots/Profile.jpg" alt="Profile Page" width="30%">
+  <img src="./screenshots/Feed.jpg" alt="News Feed" width="30%"> 
+  <img src="./screenshots/Comment.jpg" alt="Comment Section" width="30%">
+</div>
+
+▶ *Hover over images to see descriptions*
+
 ---
 
 ## **⚡ Quick Start**  
