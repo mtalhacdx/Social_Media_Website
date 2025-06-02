@@ -85,7 +85,7 @@ SnapCircle/
 
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/talha-scripts/SnapCircle.git
+   git clone https://github.com/mtalhacdx/SnapCircle.git
    ```  
 2. **Database setup:**  
    ```bash
@@ -136,6 +136,6 @@ Here’s your rewritten **Contribution Guidelines** section following the reques
 
 ## **📬 Contact**  
 **Muhammad Talha**  
-[GitHub Profile](https://github.com/talha-scripts) | [Email](talhaiqbal2114903@gmail.com)  
+[GitHub Profile](https://github.com/mtalhacdx) | [Email](talhaiqbal2114903@gmail.com)  
 
 ---
