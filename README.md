@@ -138,6 +138,6 @@ Here’s your rewritten **Contribution Guidelines** section following the reques
 
 ## **📬 Contact**  
 **Muhammad Talha**  
-[GitHub Profile](https://github.com/mtalhacdx) | [Email](talhaiqbal2114903@gmail.com)  
+[GitHub Profile](https://github.com/mtalhacdx)
 
 ---
