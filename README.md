@@ -68,16 +68,18 @@ SnapCircle/
 
 ---
 
+## 📱 UI Gallery
 
-## **📱 UI Gallery**
+<details>
+<summary><b>View Screenshots (Click to Expand)</b></summary>
 
-<div align="center">
-  <img src="Profile.png" alt="Profile Page" width="30%">
-  <img src="Feed.png" alt="News Feed" width="30%"> 
-  <img src="Comment.png" alt="Comment Section" width="30%">
-</div>
+| [Profile Page](Profile.png) | [News Feed](Feed.png) | [Comment Section](Comment.png) |
+|-----------------------------|-----------------------|--------------------------------|
+| *User profile interface*    | *Main activity feed*  | *Threaded discussions*         |
 
-▶ *Hover over images to see descriptions*
+</details>
+
+▶ *Click any button above to view the full-size screenshot*
 
 ---
 
