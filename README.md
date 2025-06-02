@@ -36,7 +36,7 @@ SnapCircle is a dynamic PHP/MySQL social platform where users share moments, con
 
 | Layer        | Technologies         |  
 |--------------|----------------------|  
-| **Frontend** | Bootstrap 5, jQuery, AJAX |  
+| **Frontend** |HTML5, CSS3, Bootstrap 5, JS, jQuery, AJAX |  
 | **Backend**  | PHP 8, MySQL         |  
 | **Database** | Relational DB with optimized queries |  
 | **Performance** | Caching, image compression |  
